@@ -14,7 +14,7 @@ Aplicación web integrada para la gestión del fixture de partidos del **Mundial
 - Enzo Rojas
 - Lautaro Videla
 - Gustavo Vera
-- Lautaro Videla
+- Matías Agüero
 
 ## Tecnologías Utilizadas
 

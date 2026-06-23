@@ -1,0 +1,79 @@
+[
+    {
+        "date": "2026-06-11",
+        "time": "16:00",
+        "home_team": "México",
+        "away_team": "Sudáfrica",
+        "home_goals": 2,
+        "away_goals": 0,
+        "round": "Fase de Grupos",
+        "stadium": "Estadio Ciudad de México (Azteca)",
+        "referee": "Wilton Sampaio",
+        "state": "Terminado",
+        "goals": [
+            {
+                "player": "J. Quiñones",
+                "minute": 9,
+                "team": "México"
+            },
+            {
+                "player": "R. Jiménez",
+                "minute": 67,
+                "team": "México"
+            }
+        ]
+    },
+    {
+        "date": "2026-06-16",
+        "time": "22:00",
+        "home_team": "Argentina",
+        "away_team": "Argelia",
+        "home_goals": 3,
+        "away_goals": 0,
+        "round": "Fase de Grupos",
+        "stadium": "Arrowhead Stadium",
+        "referee": "Szymon Marciniak",
+        "state": "Terminado",
+        "goals": [
+            {
+                "player": "Lionel Messi",
+                "minute": 17,
+                "team": "Argentina"
+            },
+            {
+                "player": "Lionel Messi",
+                "minute": 60,
+                "team": "Argentina"
+            },
+            {
+                "player": "Lionel Messi",
+                "minute": 76,
+                "team": "Argentina"
+            }
+        ]
+    },
+    {
+        "date": "2026-06-22",
+        "time": "14:00",
+        "home_team": "Argentina",
+        "away_team": "Austria",
+        "home_goals": 2,
+        "away_goals": 0,
+        "round": "Fase de Grupos",
+        "stadium": "AT&T Stadium",
+        "referee": "Amin Omar",
+        "state": "Terminado",
+        "goals": [
+            {
+                "player": "Lionel Messi",
+                "minute": 38,
+                "team": "Argentina"
+            },
+            {
+                "player": "Lionel Messi",
+                "minute": 90,
+                "team": "Argentina"
+            }
+        ]
+    }
+]
